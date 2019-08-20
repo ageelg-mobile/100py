@@ -1,0 +1,1 @@
+print("classic hello world")
