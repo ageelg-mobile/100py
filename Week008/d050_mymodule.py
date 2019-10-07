@@ -2,7 +2,7 @@
 #100 Days of Python 
 #Day 50 - Modules
 
-person = {"name":"Ageel","age":"??","country":"KSA"}
+person = {"name":"Ageel","age":"55","country":"KSA"}
 
 def greeting(name):
     print("Hello,"+name)
